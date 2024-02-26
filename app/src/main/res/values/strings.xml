@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">MyFinalSubmission</string>
+    <string name="home_string">Our Characters</string>
+    <string name="about_string">About</string>
+    <string name="detail_string">Detail</string>
+
+    <string name="characters_name">Characters Name</string>
+    <string name="description">Description</string>
+    <string name="voices">Voice Over by lorem ipsum dolor sit amet</string>
+    <string name="detail">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquam assumenda dolorem earum eligendi enim eum excepturi, exercitationem expedita fugiat, id impedit ipsa magnam maiores odit, officia optio provident quaerat quas quasi quis quod quos sed sint sit velit voluptas. Accusamus aut autem beatae, consectetur consequatur deleniti dicta dignissimos dolor dolore, dolores earum est et eum expedita inventore laborum laudantium libero minima minus modi molestiae non nulla officia perspiciatis quae quis quod rerum suscipit tempora voluptas? Adipisci architecto blanditiis debitis dolores eos excepturi facilis hic laudantium libero minima nesciunt, nihil nisi odit optio quasi recusandae sequi tenetur totam unde.</string>
+
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <string name="about">about</string>
+    <string name="share">share</string>
+    <string name="text_view">text_view</string>
+    <string name="todo">TODO</string>
+
+    <string name="myname">Nitamayega</string>
+    <string name="contact">ntmygaa@gmail.com\n<a href="https://www.linkedin.com/in/nitamayega/">linkedin.com</a></string>
+    <string name="resource">Content Resource :\n<a href="https://upinipin.fandom.com/wiki/Category:Characters">upinipin.fandom.com</a></string>
+
+    <string-array name="names">
+        <item>Upin</item>
+        <item>Ipin</item>
+        <item>Kak Ros</item>
+        <item>Opah</item>
+        <item>Tok Dalang</item>
+        <item>Ehsan</item>
+        <item>Fizi</item>
+        <item>Mail</item>
+        <item>Mei Mei</item>
+        <item>Susanti</item>
+        <item>Jarjit</item>
+        <item>Uncle Muthu</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Aruffin bin Abdul Salam\nStudent at Mesra Kindergarten</item>
+        <item>Ariffin bin Abdul Salam\nStudent at Mesra Kindergarten</item>
+        <item>Nur Roselia Salam\nStudent Comic artist</item>
+        <item>Siti\nRubber tapper and Gardener</item>
+        <item>Isnin bin Khamis\nThe Headman of Kampung Durian Runtuh</item>
+        <item>Ehsan bin Azzarudin\nStudent at Mesra Kindergarten</item>
+        <item>Muhammad Al-Hafeezy bin Ucop\nStudent at Mesra Kindergarten</item>
+        <item>Ismail bin Mail\nStudent at Mesra Kindergarten</item>
+        <item>Xiao Mei Mei\nStudent at Mesra Kindergarten</item>
+        <item>Shusanti\nStudent at Mesra Kindergarten</item>
+        <item>Jarjit Singh\nStudent at Mesra Kindergarten</item>
+        <item>Muthu\nOwner of Muthu\'s stall</item>
+    </string-array>
+
+    <string-array name="voices">
+        <item>Voice Over by Asyiela Putri</item>
+        <item>Voice Over by Asyiela Putri</item>
+        <item>Voice Over by Siti Khairunnisa</item>
+        <item>Voice Over by Hajah Ainon Ariff</item>
+        <item>Voice Over by Burhanuddin Md Radzi</item>
+        <item>Voice Over by Mohd Sharabuddin</item>
+        <item>Voice Over by Rufaidah Mohamed Fadzil</item>
+        <item>Voice Over by Usayd Uqashah Kamsani</item>
+        <item>Voice Over by Tang Ying Sowk</item>
+        <item>Voice Over by Khansa Mahira Zayani</item>
+        <item>Voice Over by Muhammad Hafiz Hassan</item>
+        <item>Voice Over by Hazimin Hamdan</item>
+    </string-array>
+
+
+    <string-array name="details">
+        <item>Upin is the eponym and main character of the Upin &amp; Ipin series. He is Ipin\'s twin older brother, Ros\' young brother, and Opah\'s grandson. A cheerful twin boy, he and his friends live in a community of Kampung Durian Runtuh. Upin\'s full name can be seen in Times Tables episode.\n\n\"Hi! I\'m Upin, and this is my twin, Ipin!\"\n- Upin every time he introduces himself to the audiences.\n\n\u25CF\tPhysical Appearance\nUpin and Ipin are agreeable twin brothers and are both bald-headed. Upin is different from Ipin because of Upin\'s hair that stands out on his bald head. Upin often wears a yellow tank top that is printed with the letter \"u\".\n\n\u25CF\tPersonality\nUpin talks a lot in the series compared to Ipin. As an older brother, Upin shows leadership to Ipin; he plans and tries to find better ways to do things. When Upin is not being naughty he corrects the mistakes of his brother. Upin and Ipin are rarely far apart, indicating that they need each other.\n\n\u25CF\tTrivia\n\t\t\u25BA\tUpin shares the same voice actor with Ipin.\n\t\t\u25BA\tUpin seems to hate rats, evidence is seen in the episode \'Pin Pin Pom Naga Sakti\'.</item>
+        <item>Ipin is one of the eponym and main characters in Upin &amp; Ipin series. He is Upin\'s twin younger brother, Ros\' young brother, and Opah\'s grandson. Ipin\'s full name can be seen in Times Tables episode.\n\n\"Yes yes yes!\"\n- Ipin\'s tagline.\n\n\u25CF\tPhysical Appearance\nAlthough Upin and Ipin are identical twins who are both bald, Ipin distinguished because he has no strand of hair like Upin. He usually wears a blue singlet that says the letter \"i\", and a little red scarf tied around the neck and anchored behind him.\n\n\u25CF\tPersonality\nAs the little brother, Ipin show character if yes which agreed only with a brother or anyone who talks to him every time, by responding to the words by repeating one word three times in one sentence, for example \"Correct correct correct\", \"Yes yes yes\", \"Right right right\" or \"Yummy yummy yummy\". Ipin also displays of fond will eat fried chicken, so that he once willing to buy fried chicken excessively though not necessarily eat up.\n\n\u25CF\tTrivia\n\t\t\u25BA\tAccording to the production, Ipin is bald so that production costs can be reduced.\n\t\t\u25BA\tIpin shares the same voice actor with Upin.\nIpin seems to hate rats, evidence is seen in the episode \'Pin Pin Pom Naga Sakti\'.</item>
+        <item>Ros is Upin\'s and Ipin\'s eldest sister and Opah\'s granddaughter. She is the main deurotagonist of the series. Upin, Ipin and friends who had grown up with them all called her as Kak Ros.\n\n\u25CF\tPhysical Appearance\nRos has the typical features of a Southeast Asian woman. She has black hair and brown eyes. Her skin tone is quite tan. Although, in the later seasons, she\'s changed and now has a pale complexion.\n\nRos usually appears to be wearing a set of baju kurung but in the later seasons, she is usually seen wearing a pink long-sleeve T-shirt with a pair of blue trousers. However, when she goes out for formal events or to school, she would have a hijab on.\n\n\u25CF\tPersonality\nRos is firm with her brothers, and often scolds Upin and Ipin when she finds them misbehaving. Her actions are justified as Opah, their grandmother, is the caring type and rarely gets mad at the twins. Nevertheless, Ros still loves her brothers endlessly.\n\n\u25CF\tTrivia\n\t\t\u25BA\tIn season 9, it was revealed that Ros have a pen-pal from Japan that she frequently writes to.\n\t\t\u25BA\tRos has a good drawing skill. It\'s shown when she was revealed as the author of \"Kembara Kembar Nakal\".\</item>
+        <item>Mak Uda is the maternal grandmother of Upin, Ipin and Ros and the head of their family, and affectionately known as Opah by her grandchildren and their friends.\n\n\u25CF\tPhysical Appearance\nOpah\'s face is shaped like a pentagon, with a mole on her left cheek. She always wore a light blue dress with blue flowers, brown batik sarong, and a blue head coverings. In the election, she was fond of wearing all green.\n\n\u25CF\tPersonality\nOpah is a senior citizen gentle wind if compared to her granddaughter Ros, particularly when treating delinquency Upin and Ipin, so that she allegedly spoils the twin brothers. She is rich in worldly and religious knowledge. Although she is old, but she remained strong body and mind. Her age may be overshadowed by the memory of Japan\'s life in \"We Are 1 Malaysia\" episode.\n\n\u25CF\tTrivia\n-</item>
+        <item>Tok Dalang is a neighbor next to the Upin\'s and Ipin\'s family who live in a blue house. He lives alone in his home as his grandson lives in the city together with his parents.\n\n\u25CF\tPhysical Appearance\nTok Dalang often appears with gray and taqiyah clothes. He always let his shirt not be attached to the button and revealing a dry skinny chest and can see his ribs.\n\n\u25CF\tPersonality\nIn the first season, Tok Dalang\'s personality\n looks less intimate with the kids who are always teasing him, especially when they chase Rembo in the village. Lately, Tok Dalang has been more friendly with children, including the naughty ones. He welcomes Upin, Ipin and his friends in various matters, may be due to his age.\n\n\u25CF\tTrivia\n\t\t\u25BA\tTok Dalang shares the same date of birth with his voice actor, which is on September 4.</item>
+        <item>Ehsan is one of Upin and Ipin\'s close friends. He is also close with Fizi and they often appear together.\n\n\u25CF\tPhysical Appearance\nEhsan is famous for his body shape that is more stout than his friends who are slender-slim sheer and wearing black-rimmed glasses that is thick. As the class monitor in Mesra Kindergarten, he also wears a red bowtie with his uniform.\n\n\u25CF\tPersonality\nAs a member of the wealthy family, Ehsan is known for some offensive nature associated with the background, the pampering, love to show off, and picky in the things important to him. He does not like to waste food or see anyone wasted it. His responsibility as the class monitor also leads Ehsan to have a directing attitude.\n\n\u25CF\tTrivia\n-</item>
+        <item>Fizi is one of Upin\'s and Ipin\'s friends. He is also close to Ehsan and often seen with him.\n\n\u25CF\tPhysical Appearance\nExternal nature Fizi most notable among the contemporaries is less fleshy face against his friends, with a sharp chin. The differences become more pronounced when compared with the stout Ehsan from root to tip.\n\n\u25CF\tPersonality\nFizi is known for his habit to laugh at his friends, especially Ehsan with the title \"Cutie pie\", because that is the nickname that Ehsan\'s father also used for his son. Even with that attitude, his friends do not mind being friends with him. Sometimes, Fizi tends to spoke something inadvertently.\n\n\u25CF\tTrivia\n-</item>
+        <item>Mail is one of Upin\'s and Ipin\'s classmates.\n\n\"2 for 1 ringgit! 2 for 1 ringgit! 2 for 1 ringgit!\"\n- Mail\'s tagline.\n\n\u25CF\tPhysical Appearance\nMail has an oval-shaped head and sports undercut hair worn in the center of the forehead. He wears a green and yellow shirt with a star with stripes with a round neck, blue shorts, and brown sandals.\n\n\u25CF\tPersonality\nMail is recognized by the \"two for 1 ringgit\" (dua seringgit) screams in business as his trademark deal, Mail can be characterized with intact entrepreneurial properties. He is very concerned about accuracy in assessing and determining the price of the traded goods, both fried chicken and fruit.\n\nHowever, Mail\'s carrier is somewhat magnificent in front of the audience as a proud young entrepreneur who is good at business. His relationship with Mei Mei is rather cold. However, they both always help each other when in need.\n\nMail is also a person who is always in the habit of being quiet and calm among his friends. His ever-present body is enough to prove that he loves a relaxing life. He is also an independent boy in his age range.\n\n\u25CF\tTrivia\n\t\t\u25BA\tIn the English dub, his name would be pronounced like \"may-ull\".</item>
+        <item>Mei Mei is Upin\'s and Ipin\'s friend who is studying with them at Mesra Kindergarten.\n\n\"I like it! I like it!\"\n- Mei Mei\'s tagline\n\n\u25CF\tPhysical Appearance\nShe is Chinese. She has white skin, wears glasses, and has black hair.\n\n\u25CF\tPersonality\nMei Mei is a sweet and kind person. She is also a clever student, easy to be patient and quick to act if her friends face problems or make mistakes. She is always caring among her friends. She is positive and full of courage, even at the young age. But, among her friends, Mail is mostly annoyed by her. Both are always fighting and teasing each other.\n\n\u25CF\tTrivia\n-</item>
+        <item>Susanti is a classmate of Upin and Ipin from Jakarta, Indonesia. She moved to Kampung Durian Runtuh with her family.\n\n\u25CF\tPhysical Appearance\nSusanti has short black hair that is swept to the side. She wears a flower hairpin on her right side. Her face is round and has less prominent features.\n\n\u25CF\tPersonality\nAlthough speaking in Indonesian, but the language she uses is very easy to understand by her local friends. As a daughter of the rich, Susanti looks rather clever with technology compared to her classmates as villagers. She is allergic to pollen, which is revealed in \"Journey Through 6 Seasons\".\n\n\u25CF\tTrivia\n-</item>
+        <item>Jarjit is a classmate of Upin and Ipin, as well as the main \"comedian\" character in this series that is famous for \"two-third\" (dua tiga) poem.\n\n\"Marvelous! Marvelous!\"\n- Jarjit\'s tagline\n\n\u25CF\tPhysical Appearance\nThe thin face of Jarjit is as long as the olives, and the skin is noticeably darker than his other friends. As a Sikh, he always wears patches to tie his hair that is not cut off in the form of ball.\n\n\u25CF\tPersonality\nJarjit is a cool and funny person. As a \"class comedian\", Jarjit often thrilled the audience with a two stanzas poem that started with \"Two three...\" regardless of the circumstances, whether to ask or to answer questions, or to celebrate something fun or to mourn something sad. Some of the reactions he made are also funny, especially when crying in pain; although he is really sick but his demeanor is like pretending to be sick.\n\n\u25CF\tTrivia\n-</item>
+        <item>Muthu is the most well-known food seller at Kampung Durian Runtuh. He is Rajoo\'s father.\n\n\u25CF\tPhysical Appearance\nMuthu is wearing a white dirty singlet and purple short and a pair of slippers. In the newer version, Muthu is wearing a cleaner white singlet and purple shorts. His design was change in newer season, having his head longer and has more slit-eyed.\n\n\u25CF\tPersonality\n-\n\n\u25CF\tTrivia\n-</item>
+    </string-array>
+
+    <integer-array name="photos">
+        <item>@drawable/upin</item>
+        <item>@drawable/ipin</item>
+        <item>@drawable/ros</item>
+        <item>@drawable/opah</item>
+        <item>@drawable/dalang</item>
+        <item>@drawable/ehsan</item>
+        <item>@drawable/fizi</item>
+        <item>@drawable/mail</item>
+        <item>@drawable/mei</item>
+        <item>@drawable/susanti</item>
+        <item>@drawable/jarjit</item>
+        <item>@drawable/muthu</item>
+    </integer-array>
+</resources>
